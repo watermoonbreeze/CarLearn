@@ -1,0 +1,3 @@
+# LearnCar 项目 Codex 适配层（占位）
+# 项目规则见 AGENTS.md → .ai-context/public-agent-rules.md
+# 共享资产唯一写入位置 .ai-context/，此处仅存 Codex 专属适配（Agent TOML / hooks / prompts 待建时补）
